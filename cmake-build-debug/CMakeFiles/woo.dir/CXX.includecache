@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/camaren/CLionProject/woo/GenericInequalities.cpp
+GenericInequalities.hpp
+/Users/camaren/CLionProject/woo/GenericInequalities.hpp
+
+/Users/camaren/CLionProject/woo/GenericInequalities.hpp
+
+/Users/camaren/CLionProject/woo/TestGenericInequalities.cpp
+iostream
+-
+GenericInequalities.cpp
+/Users/camaren/CLionProject/woo/GenericInequalities.cpp
+
